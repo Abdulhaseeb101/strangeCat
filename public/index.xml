@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strangeCat&#39;s Blog</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on strangeCat&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Mar 2022 14:07:05 +0530</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Sat, 19 Mar 2022 14:07:05 +0530</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is my first post
+ #include &amp;lt;stdio.h&amp;gt; int main() { 	printf(&amp;#34;%d&amp;#34;, 16); 	return 0; } 
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
