@@ -5,20 +5,20 @@
     
     
     
-    <link>/posts/</link>
+    <link>https://strangecat.netlify.app/posts/</link>
     <description>Recent content in Posts on strangeCat&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://strangecat.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>picoCTF writeups: keygenme-py</title>
-      <link>/posts/picoctf-writeup-keygenme-py/</link>
+      <link>https://strangecat.netlify.app/posts/picoctf-writeup-keygenme-py/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/picoctf-writeup-keygenme-py/</guid>
+      <guid>https://strangecat.netlify.app/posts/picoctf-writeup-keygenme-py/</guid>
       <description>
         
           
